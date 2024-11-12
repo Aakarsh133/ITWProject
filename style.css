@@ -66,7 +66,7 @@ h2 {
 .project {
   background-color: #f9f9f9;
   margin: 10px 0;
-  padding: 15px;
+  padding: 20px;
   border-radius: 5px;
 }
 
@@ -92,10 +92,11 @@ footer {
 .links:hover
 {
   color: rgb(145, 40, 40);
-  font-size: large;
+  cursor: pointer;
 }
 
 .skills
 {
   padding-left: 20px;
 }
+
