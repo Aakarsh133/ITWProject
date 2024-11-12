@@ -11,3 +11,4 @@ git pull
 git push
 git status 
 git commit -m "Text"
+git init
